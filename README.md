@@ -1,5 +1,11 @@
 # Portfolio
-Welcome to my portfolio repository! Here, you will find a curated collection of my projects, highlighting my journey as a data scientist and AI enthusiast. Each project showcases my ability to solve real-world problems using data-driven approaches and cutting-edge technologies.
+<h4 align="justify">Welcome to my portfolio repository! Here, you will find a curated collection of my projects, highlighting my journey as a data scientist and AI enthusiast. Each project showcases my ability to solve real-world problems using data-driven approaches and cutting-edge technologies.
+
+<br>Passionate Data Scientist and AI Enthusiast seeking to leverage expertise in data analysis, deep learning, and machine learning in impactful roles. Adept at designing and implementing predictive models, I excel in transforming complex datasets into actionable insights that drive business decisions.
+
+With experience across data visualization, data engineering, and AI development, I have delivered projects that improve efficiency and accuracy. My skills include working with cross-functional teams, employing advanced analytics, and utilizing cutting-edge technologies to build scalable solutions.
+
+Committed to continuous learning, I stay updated on the latest advancements in AI and machine learning, aiming to contribute to projects that push the boundaries of data-driven innovation.</h4>
 
 - 🔭 Completed my B.Tech in Computer Science Engineering (Data Science (AI & ML)) with UpGrad in 2024
 - 📫 You can to reach me out through my:
